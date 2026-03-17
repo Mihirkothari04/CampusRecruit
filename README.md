@@ -8,7 +8,7 @@
 # 🎓 CampusRecruit AI
 
 ### Agentic AI-Powered Internal HR Tool for Campus Placement Drives
-
+Access it Live here "https://campusrecruit.streamlit.app/"
 > Automates the entire campus recruitment pipeline — from resume dump to personalized candidate communication — while keeping humans in control of final decisions.
 
 ---
